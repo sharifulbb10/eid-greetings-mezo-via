@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  // base: "/eid-greetings-choto-via/",
+  base: "/eid-greetings-mezo-via/",
   plugins: [react(), tailwindcss()],
 })
