@@ -26,7 +26,7 @@ function EidGreetings() {
 			<div className="clickBar w-[90%] h-[2rem] bg-red-800 mx-auto flex justify-center items-center rounded-[20px] text-red-300 cursor-pointer hover:text-white" onClick={handleClick}>Tap to see your message</div>
 
 			<div style={{display: "none"}} className="msg mx-3 md:mx-14 px-1 text-sm md:text-lg text-emerald-700 relative">
-			<p><strong>প্রিয় ছোট ভাইয়া</strong><br/><br/>পরিবার পরিজন থেকে দূরে প্রবাসে একাকী ঈদ উদযাপন কখনোই আনন্দের নয়। তবে আপনার এই ত্যাগ আমাদের জন্য বিশাল অর্থবহ। ঈদের আনন্দ যেন আপনার জীবনে প্রতিটি সূর্যোদয়ের ন্যায় সর্বক্ষণ স্থায়ী হয়, এই দোয়া রইল। "কষ্টের সাথে স্বস্তি রয়েছে" রাব্বুল আলামিনের এই প্রতিশ্রুতির প্রতি বিশ্বাস রেখে আপনার জীবনের সব কষ্টগুলো যেন স্বস্তিতে রূপান্তর হয় সবসময় এই দোয়া করি।<br/><br/><strong>ঈদ মোবারক!</strong></p>
+			<p><strong>প্রিয় মেজো ভাইয়া</strong><br/><br/>পরিবার পরিজন থেকে দূরে প্রবাসে একাকী ঈদ উদযাপন কখনোই আনন্দের নয়। তবে আপনার এই ত্যাগ আমাদের জন্য বিশাল অর্থবহ। ঈদের আনন্দ যেন আপনার জীবনে প্রতিটি সূর্যোদয়ের ন্যায় সর্বক্ষণ স্থায়ী হয়, এই দোয়া রইল। "কষ্টের সাথে স্বস্তি রয়েছে" রাব্বুল আলামিনের এই প্রতিশ্রুতির প্রতি বিশ্বাস রেখে আপনার জীবনের সব কষ্টগুলো যেন স্বস্তিতে রূপান্তর হয় সবসময় এই দোয়া করি।<br/><br/><strong>ঈদ মোবারক!</strong></p>
 			<div className="anotherAnimation absolute h-[100%] w-6 bg-white/50"></div>
 			</div>
 
